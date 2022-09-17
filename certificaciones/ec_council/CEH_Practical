@@ -1,0 +1,90 @@
+CEH Practical Jan 2022 - Confirm 17/20
+
+mcq 01
+172.16.0.27 -> only has the 3306 open
+NMAP tells us -> server 2016
+
+mcq 02
+safe: Administrator, Alan Alex, TomHanks, DefaultAccount
+HARRIS is new
+
+
+mcq 03
+only 172.16.0.27 --> has 3389 RDP open
+
+mcq 04
+only 172.16.0.40 --> 21 ftp is open
+	username = Blackhat
+	password = test
+	used MEDUSA to crack it
+
+	
+downloaed the flag1.txt which had contents ---> 4700056
+
+mcq 05
+	account access code=450989878899
+			   =450989878899
+mcq 06
+http://172.16.0.27:8080/CEH 
+	using wpscan with username 'james' we found the password to be 'apple123'
+mcq07
+hash.txt = 5c90b96a75d4f9d5a1cfaa6f532afdc8
+which coorponds too --> Secret123
+
+
+mcq 09 (not sure***)
+DoS.pcapng
+attacker ip seems to be ---> 172.16.0.40
+
+mcq 10 (not sure***)
+DDoS.pcpang
+ vulnerable IP = 172.16.0.11
+	ip01 =172.16.0.27
+	ip02 =172.16.0.89
+	ip03 =172.16.0.40 (not sure exactly, as ver few)
+mcq 11
+only 172.16.0.40 --> 21 ftp is open
+	username = admin
+	password = shadow123
+	used MEDUSA to crack it
+
+	
+downloaed the flag.txt which had contents ---> Adam@smith
+
+mcq 12 
+server2016 --> rdp ( iguess this is 172.16.0.27)
+	Legalcontract.txt
+		Doc Number F/N201010988818
+	
+mcq 13
+moviescope.com ip = 172.16.0.89
+	username=sam
+	password=test
+
+mcq 14
+1-202-502-2431
+mcq 15
+GET
+
+mcq16
+	File2
+	
+mcq17 (veracrypt)
+	9419512131
+
+
+mcq18 
+	Acct# 5000612345678
+	      5000612345678
+
+
+mcq 19
+172.16.0.30 5555 port (android ? )
+	adb connect ip:port
+	adb shell
+	cd sdcard
+	cat Tradeinfo ---> 1876890
+
+
+mcq20 (text encoder)
+	IP address 172.16.0.40
