@@ -7,12 +7,16 @@ Esto es una recopilación de herramientas actualizadas y funcionales para el mun
 | Leak de Facebook 2021 - #TOR | 4wbwa6vcpvcr3vvf4qkhppgy56urmjcj2vagu2iqgp3z656xcmfdbiqd.onion |
 | Buscar Filtraciones de datos | https://dehashed.com |
 | Buscar Filtraciones de datos | https://haveibeenpwned.com |
+| Buscar datos | https://start.me/p/L1rEYQ/osint4all |
+| Buscar datos | https://start.me/p/aLgp1X/huginn-och-muninn |
+| Buscar datos | https://osintframework.com/ |
 
 
 **Foros de hacking**
 | Descripción | Link de herramientas |
 |--|--|
 | Leaks,BD, Dumps etc | https://breached.to |
+| Leaks,BD, Dumps etc | https://cracked.io/ |
 
 **EC Council Leaks**
 | Descripción | Link de herramientas |
