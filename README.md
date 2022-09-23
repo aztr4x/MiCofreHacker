@@ -19,7 +19,9 @@ Esto es una recopilación de herramientas actualizadas y funcionales para el mun
 | Descripción | Link de herramientas |
 |--|--|
 | Leaks,BD, Dumps etc | https://breached.to |
-| Leaks,BD, Dumps etc | https://cracked.io/ |
+| Leaks,BD, Dumps etc | https://cracked.io |
+| Doxing People | https://doxbin.org |
+
 
 **EC Council Leaks**
 | Descripción | Link de herramientas |
